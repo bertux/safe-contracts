@@ -1175,10 +1175,10 @@
     path-browserify "^1.0.0"
     url "^0.11.0"
 
-"@safe-global/safe-singleton-factory@^1.0.16":
-  version "1.0.16"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-singleton-factory/-/safe-singleton-factory-1.0.16.tgz#03289ea653e0df88a6edd295d761b3f03b906656"
-  integrity sha512-C6Zs88ubTTRd3zHiorlEW5wxqeLuJzBoKYaSDY2mIpLg4NqiIWGR2ksvLSMV+Uq2rs/De32WhfsRoMc1sdeE3w==
+"@safe-global/safe-singleton-factory@^1.0.19":
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/@safe-global/safe-singleton-factory/-/safe-singleton-factory-1.0.19.tgz#462182528a0b1bb0d212ce6b23fec2573575f1db"
+  integrity sha512-TwTmeEpwR+8E8XOWR93cOWK7NbepURpCqr6eOTwwkVZj1hS95Kkd0G2WmP1GokUlMS6xm9BxiIr1gYjOFGp8QQ==
 
 "@scure/base@~1.1.0":
   version "1.1.1"
